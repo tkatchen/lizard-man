@@ -1,0 +1,23 @@
+{
+  "name": "betterdrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security",
+    "giphy-api": "^1.2.7",
+    "google": "^2.1.0",
+    "mathjs": "^3.16.3",
+    "pm2": "^2.6.1",
+    "rethinkdb": "^2.3.3",
+    "rethinkdbdash": "^2.3.31",
+    "wordnet": "^0.1.2"
+  }
+}

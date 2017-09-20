@@ -1,0 +1,10 @@
+require("../../req.js")
+require('../../bot.js')
+exports.run = (bot, msg) => {
+}
+
+exports.help = {
+    name : "",
+    desc : "",
+    usage: ""
+}
